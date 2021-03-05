@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CountryList</string>
+    <string name="country_id">id</string>
+    <string name="country_name">country_name</string>
+    <string name="country_capital">country_capital</string>
+    <string name="country_population">country_population</string>
+    <string name="country_regionblocs">country_regionblocs</string>
+    <string name="app_title">Country App</string>
+</resources>
